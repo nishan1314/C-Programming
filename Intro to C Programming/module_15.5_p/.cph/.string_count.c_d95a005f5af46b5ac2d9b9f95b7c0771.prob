@@ -1,0 +1,1 @@
+{"name":"Local: string_count","url":"c:\\Users\\nisha\\OneDrive\\Desktop\\Phitron\\module_15.5_p\\string_count.c","tests":[{"id":1698598024778,"input":"hello","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\nisha\\OneDrive\\Desktop\\Phitron\\module_15.5_p\\string_count.c","group":"local","local":true}

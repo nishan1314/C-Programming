@@ -1,0 +1,1 @@
+{"name":"Local: abs","url":"c:\\Users\\nisha\\OneDrive\\Desktop\\Phitron\\module_15.5_p\\abs.c","tests":[{"id":1698597700731,"input":"5","output":"5"},{"id":1698597710121,"input":"-7","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\nisha\\OneDrive\\Desktop\\Phitron\\module_15.5_p\\abs.c","group":"local","local":true}
