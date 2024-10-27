@@ -1,1 +1,0 @@
-{"name":"Local: equalx","url":"c:\\Users\\nisha\\OneDrive\\Desktop\\Phitron\\module_13\\equalx.c","tests":[{"id":1698291365049,"input":"3\n2 10 3\n13","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\nisha\\OneDrive\\Desktop\\Phitron\\module_13\\equalx.c","group":"local","local":true}

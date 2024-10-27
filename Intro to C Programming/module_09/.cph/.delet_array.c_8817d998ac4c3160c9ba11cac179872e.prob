@@ -1,1 +1,0 @@
-{"name":"Local: delet_array","url":"c:\\Users\\nisha\\OneDrive\\Desktop\\Phitron\\module_09\\delet_array.c","tests":[{"id":1697382394562,"input":"5\n100 200 300 400 500\n1","output":"100 300 400 500"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\nisha\\OneDrive\\Desktop\\Phitron\\module_09\\delet_array.c","group":"local","local":true}

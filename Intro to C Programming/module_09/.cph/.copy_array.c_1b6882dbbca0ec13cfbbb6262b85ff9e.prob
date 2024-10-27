@@ -1,1 +1,0 @@
-{"name":"Local: copy_array","url":"c:\\Users\\nisha\\OneDrive\\Desktop\\Phitron\\module_09\\copy_array.c","tests":[{"id":1697384639342,"input":"5\n1 2 3 4 5\n3\n10 12 10","output":"1 2 3 4 5 10 12 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\nisha\\OneDrive\\Desktop\\Phitron\\module_09\\copy_array.c","group":"local","local":true}
