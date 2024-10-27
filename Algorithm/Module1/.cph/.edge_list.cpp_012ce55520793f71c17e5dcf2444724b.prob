@@ -1,1 +1,0 @@
-{"name":"Local: edge_list","url":"d:\\DUET\\Phitron\\Algorithm\\Module1\\edge_list.cpp","tests":[{"id":1706637828855,"input":"4 4\n0 1\n0 3\n3 2\n1 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DUET\\Phitron\\Algorithm\\Module1\\edge_list.cpp","group":"local","local":true}
